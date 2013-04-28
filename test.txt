@@ -3,3 +3,4 @@ Add 2 from test
 Add 3 from test-ssh
 Add 3 from knowfirm
 Add 4 from morningfirm
+Add 5 from test-git-gui
